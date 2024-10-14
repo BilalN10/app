@@ -1,0 +1,919 @@
+{
+  "profil-mesure": {
+    "height": "cm (hauteur)",
+    "size": "cm (taille)",
+    "hips": "cm (hanches)",
+    "bust": "cm (poitrine)",
+    "footSize": " (pointure)",
+    "clothingSize": " (taille vêtement)",
+    "hairColor": " (couleur cheveux)",
+    "eyeColor": " (couleur yeux)"
+  },
+  "content": {
+    "size-search": "Taille",
+    "button-new-request": "Proposer d’autres créneaux",
+    "ask-for-slot": "Votre demande de créneau a bien été envoyée.",
+    "more-slot": "Aimerait d’autres créneaux pour l’essayage.",
+    "accept-message": "A accepté votre créneau pour l’essayage.",
+    "cancel-notification": "A annulé son essayage.",
+    "green-propose": "Vos créneaux ont bien été envoyés.",
+    "discover-slot-available": "Découvrez les créneaux disponibles pour votre essayage !",
+    "decline-request-message": "Vous avez decliné l'essayage.",
+    "decline-request-message-client": "À refusé votre demande d'essayage.",
+    "confirm-request": "Confirmer la demande",
+    "title-message": "Votre message",
+    "message-hint": "Écrivez votre message...",
+    "add-message": "Ajouter un message",
+    "ask-slot": "Demander d'autres créneaux",
+    "confirm-slot": "Confirmer ce créneau pour l'essayage",
+    "select-slot": "Appyez pour sélectionner le créneau qui vous convient le plus",
+    "cancel-mine": "Annuler ma demande",
+    "choose-slot-title": "Rappel de votre demande",
+    "choose-slot-title2": "Créneaux disponibles pour votre essyage",
+    "offer-slot-title": "Rappel de la demande",
+    "offer-slot-button": "Proposer ces créneaux au client",
+    "see-slot": "Voir les créneaux",
+    "offer-slot-title2": "Proposer 3 créneaux horaires",
+    "offer-slot-one": "Créneau 1",
+    "offer-slot-two": "Créneau 2",
+    "offer-slot-three": "Créneau 3",
+    "decline": "Refuser",
+    "offer-slots": "Proposer des créneaux",
+    "choose-slots": "Choisissez un céneau",
+    "notification-empty": "Aucune notifications",
+    "notification-title": "Notifications",
+    "request-confirm": "Confirmer la demande",
+    "request-title": "Demander un essayage",
+    "request-message": "Votre message",
+    "request-message-hint": "Écrivez votre messaage...",
+    "request-date": "Date souhaitée",
+    "request-date-error": "Renseignez une date",
+    "request-type-input": "Type de robe recherché",
+    "request-number-input": "Nombre de robe recherchés",
+    "request-number-error": "Renseignez un nombre de robe",
+    "size-input": "Tailles*",
+    "error-size-input": "Renseignez des tailles",
+    "error-image": "Renseignez des photos/vidéo de la robe",
+    "height-profil": "cm (hauteur)",
+    "size-profil": "cm (taille)",
+    "hips-profil": "cm (hanches)",
+    "bust-profil": "cm (poitrine)",
+    "foot-size-profil": "cm (pointure)",
+    "clothing-size-profil": "(taille vêtement)",
+    "hair-color-profil": "(couleur cheveux)",
+    "eye-color-profil": "(couleur yeux)",
+    "mensuration-title": "Mensurations",
+    "exp-pro-title": "Expérience pro.",
+    "title-instagram": "Instagram",
+    "phone-field": "Numéro de téléphone",
+    "email-field": "Adresse email",
+    "email-field-hint": "john.doe@gmail.com",
+    "robe-type": "Type de robe*",
+    "robe-type-hint": "Sélectionner",
+    "error-robe-type": "Renseignez des types de robe",
+    "instagram": "Pseudo instagram (facultatif)",
+    "exp-pro": "Expérience professionnelle (facultatif)",
+    "exp-pro-hint": "Décrivez votre expérience",
+    "gender": "Genre*",
+    "gender-error": "Renseignez un genre",
+    "choose": "Choisir",
+    "height": "Hauteur (en cm)",
+    "size": "Taille (en cm)",
+    "hips": "Hanches (en cm)",
+    "bust": "Poitrine (en cm)",
+    "footSize": "Pointure (en cm)",
+    "clothingSize": "Taille de vêtement",
+    "hairColor": "Couleur cheveux",
+    "eyeColor": "Couleur yeux",
+    "no-picture": "Aucune photos"
+  },
+  "subscription": {
+    "info": {
+      "restore": "Restaurer un abonnement déjà acheté",
+      "restore-success-info": "Votre abonnement a été restauré avec succès",
+      "restore-error-info": "Une erreur est survenue lors de la restauration de votre abonnement ou vous n'avez pas encore acheté d'abonnement",
+      "title": "Abonnement",
+      "sub-flow": "Les abonnements seront débités de votre carte de crédit via votre compte iTunes. Les abonnements seront automatiquement renouvelés sauf annulation dans les 24 heures avant la fin de la période en cours. Vous pouvez annuler à tout moment avec les paramètres de votre compte iTunes. Vous ne pourrez pas annuler l'abonnement en cours pendant la période d'abonnement active."
+    },
+    "by-month": " / par mois",
+    "creator": {
+      "title": "Abonnement \n Fashion Designer",
+      "line1": "Créez votre boutique virtuelle à votre image",
+      "line2": "Gardez votre planning RDV client complet",
+      "line3": "Valorisez votre temps",
+      "line4": "Décrochez de nouveaux clients",
+      "line5": "Aucune commission sur vos prestations",
+      "subtitle": "Mettez en avant votre marque !"
+    },
+    "model": {
+      "title": "Abonnement \n Modèle",
+      "line1": "Décrochez des contrats shooting",
+      "line2": "Enrichissez votre expérience professionnelle",
+      "line3": "Augmentez vos revenus",
+      "line4": "Donnez un rayonnement international à votre carrière",
+      "line5": "Aucune commission sur vos prestations",
+      "subtitle": "Mettez en avant votre talent !"
+    },
+    "cta": "Souscrire",
+    "free": "Sans engagement",
+    "settings": {
+      "particular-subscribe-title": "Abonnement",
+      "particular-subscribe-subtitle": "Pour vous abonner vous devez modifier votre type de profil en fashion designer ou model"
+    }
+  },
+  "banner": {
+    "green-product-title": "Et voilà !",
+    "green-product-subtitle": "Votre robe est désormais en ligne.",
+    "green-post-subtitle": "Votre publication est désormais en ligne.",
+    "red-product-title": "Ajoutez des photos",
+    "red-product-subtitle": "Renseignez des photos",
+    "green-booking-title": "Et voilà !",
+    "green-booking-subtitle": "Votre demande de rendez-vous est bien prise en compte.",
+    "green-subscription-title": "Félicitations !",
+    "green-subscription-subtitle": "Votre abonnement est désormais actif.",
+    "red-profil-type-title": "Attention",
+    "red-profil-type-subtitle": "Vous devez terminer votre abonnement en cours avant de changer de profil"
+  },
+  "invalid-verification-code": "Le code de vérification saisi n’est pas valide.",
+  "title": {
+    "subscription": "Se connecter",
+    "profil": {
+      "update": "Félicitations",
+      "update-description": "Données mises à jour"
+    },
+    "historic": {
+      "title": "Historique",
+      "subtitle": "Vos réservations d'essayages passées ci-dessous"
+    },
+    "finished-fitting": "Terminé",
+    "cancel-fitting": "Essayage annulé",
+    "profil-update-title": "Attention",
+    "profil-update-subtitle": "Veuillez renseigner les champs",
+    "valid-change": "Valider les changements",
+    "profil-update-description": "Vos modificiations ont bien été prises en compte",
+    "profil-update": "Mise à jour !",
+    "personnal-data": "Infos personnelles",
+    "personnal-data-change": "Changement de profil",
+    "notification-message": "Aimerait réserver un essayage.",
+    "product": "Robe : ",
+    "fitting-title": "Mes essayages",
+    "fitting-subtitle": "Gérez vos essayages ci-dessous",
+    "fitting-todo": "essayage prévu",
+    "fittings-todo": "essayages prévus",
+    "fittings-cancel": "Annuler l'essayage",
+    "asking-fitting": "Demandes de rendez-vous",
+    "filter-search": "Filter la recherche",
+    "see-reserve": "Voir et réserver",
+    "search-hint-product": "Louis Vuitton, haut, fashion",
+    "search-hint-picture": "Rechercher un modèle",
+    "sell-by": "vendu par ",
+    "details": "Détails",
+    "description": "Description",
+    "profil-complet": "Voir le profil complet",
+    "picture-title": "Les photos",
+    "photoNbTexts": "photos",
+    "photoNbText": "photo",
+    "book-product": "Réserver un essayage",
+    "book-a-product": "Réserver l'essayage",
+    "product-title": "Réserver un essayage pour",
+    "my-product-title": "Les robes",
+    "modify-picture": "Modifier la publication",
+    "productNbTexts": "robes",
+    "productNbText": "robe",
+    "careful": "Attention !",
+    "careful-text-picture": "Souhaitez-vous vraiment supprimer la photo de votre compte ?",
+    "careful-text-product": "Souhaitez-vous vraiment supprimer le robe de votre compte ?",
+    "careful-text-profil": "Vous êtes sur le point de perdre les données liées à votre profil (robes, photos, essayages), êtes-vous sûr de vouloir continuer ?",
+    "careful-text-booking": "Vous êtes sur le point d'annuler un rendez-vous, êtes-vous sûr de vouloir continuer?",
+    "form-product-title": "Création robe",
+    "modification-product-title": "Modification robe",
+    "form-picture-title": "Création photo",
+    "form-picture-video-title": "Création photo/vidéo",
+    "modification-picture-title": "Modification photo",
+    "modification-picture-video-title": "Modification photo/vidéo",
+    "add-picture": "Ajoutez des photos",
+    "click-to-pick-picture-video": "Appuyez pour ajouter une photo/vidéo",
+    "click-to-update-picture-video": "Appuyez pour ajouter une photo/vidéo",
+    "add-picture-description": "Vous pourrez modifier ou ajouter d’autres photos."
+  },
+  "home-screen": {
+    "title": "Bienvenue",
+    "subtitle": "Bienvenue sur Find Your Dresses, accédez à votre compte dès maintenant.",
+    "first-button": "Rechercher une robe",
+    "second-button": "Accès créateur",
+    "third-button": "Accès modèle"
+  },
+  "home-page": {
+    "title": "Trouver votre robe",
+    "search-hint": "Rechercher une robe...",
+    "location-hint": "Où (ville..)",
+    "search-button": "Rechercher",
+    "search-title": "Recherche",
+    "second-title": "Les modèles",
+    "see-more": "Voir plus"
+  },
+  "complete-profil": {
+    "title-1": "Type de profil",
+    "title-2": "Créez votre profil",
+    "particulier": "Particulier",
+    "creator": "Fashion Designer",
+    "model": "Modèle"
+  },
+  "model-page": {
+    "subtitle": "Découvrez nos modèles pour vos shootings",
+    "hint": "Rechercher un modèle..."
+  },
+  "authentication": {
+    "email": {
+      "title": "Adresse email",
+      "hint": "john.doe@gmail.com"
+    },
+    "phone": {
+      "error-phone-exist": "Ce numéro est déjà utilisé",
+      "error-phone-not-exist": "Ce numéro n'est pas utilisé",
+      "error-incorrect": "Le code est incorrect"
+    },
+    "password": {
+      "title": "Mot de passe",
+      "hint": "Mot de passe"
+    },
+    "login": {
+      "login-title": "Connectez-vous"
+    },
+    "login-with-phone": {
+      "login-title": "Connectez-vous",
+      "enter-code": "Entrez le code reçu par SMS pour vous connecter",
+      "expire": "Le code expire dans {time} minute"
+    },
+    "create-account": {
+      "title": "Créez un compte.",
+      "confirm-email-message": "Vous avez reçu un mail de vérification.\nMerci de le valider pour accéder au site.",
+      "receive-email": "Vérifiez votre boîte mail",
+      "receive-email-body": "Un email de vérification vous a été envoyé à l'adress {mail}",
+      "enter-code": "Validez votre numéro de téléphone"
+    },
+    "create-profil": {
+      "title": "créez votre profil",
+      "cta": "Terminer l'inscription"
+    },
+    "cgu": {
+      "title": "CGVU et politique de confidentitalité",
+      "accept": "J'accepte la politique de confidentialité et les conditions générales de ventes et d'utilisation",
+      "required": "Vous devez acceptez les conditions générales d'utilisations."
+    },
+    "confirm-email": {
+      "title": "Vérifiez votre boite mail",
+      "must-validate-email": "Vous devez valider votre email pour accéder au site."
+    },
+    "reset-password": {
+      "title": "Vérifiez votre boite mail",
+      "content": "Vous avez reçu un email afin de réinitialiser votre mot de passe",
+      "subtitle": "Entrez l’adresse email associée à votre compte. Nous vous enverrons un email de réinitialisation sur celle-ci."
+    },
+    "forgot-password": {
+      "title": "Réinitialiser mot de passe"
+    },
+    "logout": {
+      "content": "Vous avez été déconnecté.\nNous allons vous rediriger.."
+    },
+    "no-account-yet": "Pas de compte ? ",
+    "create-account-now": "Créer maintenant",
+    "already-account": "Déjà un compte ? ",
+    "login-now": "Connectez-vous.",
+    "forgot-password-message": "Mot de passe oublié ? ",
+    "forgot-password-link": "Réinitialiser",
+    "connect-by-phone": "Se connecter par téléphone",
+    "connect-by-email": "Par adresse mail",
+    "no-need-connexion": "Pas de compte ? ",
+    "no-connexion-start-now": "Démarrer ma simulation",
+    "error": {
+      "no-user-with": "Aucun utilisateur avec l'email {mail} n'a été trouvé."
+    },
+    "complete-account": {
+      "title": "Complétez votre compte",
+      "subtitle": "Complétez votre compte pour accéder au site.",
+      "firstname": "Prénom",
+      "lastname": "Nom",
+      "birthdate": "Date de naissance",
+      "phone": "Téléphone",
+      "address": "Adresse",
+      "postal-code": "Code postal",
+      "city": "Ville",
+      "country": "Pays",
+      "submit": "Envoyer",
+      "error": {
+        "firstname": "Veuillez entrer votre prénom.",
+        "lastname": "Veuillez entrer votre nom.",
+        "birthdate": "Veuillez entrer votre date de naissance.",
+        "phone": "Veuillez entrer votre numéro de téléphone.",
+        "photo": "Veuillez entrer votre photo.",
+        "address": "Veuillez entrer votre adresse.",
+        "postal-code": "Veuillez entrer votre code postal.",
+        "city": "Veuillez entrer votre ville.",
+        "country": "Veuillez entrer votre pays."
+      }
+    },
+    "what": "Que voulez-vous faire ?",
+    "disconnect": "Se déconnecter",
+    "delete-account": "Supprimer mon compte"
+  },
+  "field": {
+    "report-fake-user": "Faux compte",
+    "report-spam": "Spam",
+    "report-nudity": "Nudité",
+    "report-violence": "Violence",
+    "report-harassment": "Harcèlement",
+    "report-ilegalContent": "Contenu illégal",
+    "report-other": "Autre",
+    "report-user": "Utilisateur",
+    "report-picture": "Publication",
+    "report-product": "Robe",
+    "morphology-validator": "Renseignez la morphologie",
+    "morphology-a": "En A",
+    "morphology-v": "En V",
+    "morphology-x": "En X",
+    "morphology-h": "En H",
+    "morphology-i": "En I",
+    "morphology-o": "En O",
+    "short-description": "Bio (facultative)",
+    "hint-short-description": "Votre bio...",
+    "error-short-description": "Renseignez une courte description",
+    "budget": "Budget (€)",
+    "city": "Ville",
+    "city-hint": "Ex. Nice",
+    "morphology": "Morphologie{}",
+    "none": "Aucun",
+    "dress-type": "Type de robe*",
+    "dress-type-option": "Type de robe",
+    "dress-type-hint": "Séléctionner",
+    "dress-type-validator": "Renseignez le type de robe",
+    "picture": "Photos*",
+    "picture-field": "Photo à publier*",
+    "picture-video-field": "Photo/vidéo à publier*",
+    "product-name": "Nom de la robe*",
+    "product-name-hint": "Ex. Ma super robe",
+    "product-name-validator": "Renseignez le nom du produit",
+    "product-price": "Tarif (facultatif)",
+    "product-price-hint": "Ex. 150",
+    "product-description": "Description robe*",
+    "product-description-validator": "Renseignez la description de la robe",
+    "product-description-hint": "Décrivez votre robe",
+    "picture-description": "Description de votre photo/vidéo*",
+    "picture-description-validator": "Renseignez la description de votre photo/vidéo",
+    "picture-description-hint": "Décrivez votre photo/vidéo",
+    "product-create": "Créer la robe",
+    "product-modify": "Modifier la robe",
+    "picture-create": "Créer la publication",
+    "picture-modify": "Modifier la publication",
+    "add-picture": "Ajouter/modifier les photos",
+    "creator-name": "Nom de la marque*",
+    "hint-creator-name": "Ex. Doe",
+    "error-creator-name": "Remplir le champ",
+    "manager-name": "Nom du gérant*",
+    "hint-manager-name": "Ex. Doe",
+    "error-manager-name": "Remplir le champ",
+    "manager-firstname": "Prénom du gérant*",
+    "hint-manager-firstname": "Ex. John",
+    "error-manager-firstname": "Remplir le champ",
+    "nickname-shop": "Nom du magasin*",
+    "hint-nickname-shop": "Ex. Louis Vuitton",
+    "error-nickname-shop": "Remplir le champ",
+    "address-shop": "Adresse du magasin*",
+    "hint-address-shop": "Ex. 11 rue des fleurs 06000 Nice",
+    "error-address-shop": "Remplir le champ",
+    "user-firstname": "Nom*",
+    "hint-user-firstname": "Votre nom",
+    "error-user-firstname": "Remplir le champ",
+    "user-lastname": "Prénom*",
+    "hint-user-lastname": "Votre prénom",
+    "error-user-lastname": "Remplir le champ",
+    "user-nickname": "Pseudo*",
+    "hint-user-nickname": "Votre pseudo",
+    "error-user-nickname": "Remplir le champ",
+    "user-city": "Ville de résidence (facultatif)",
+    "hint-user-city": "11 rue des fleurs 06000 Nice",
+    "error-user-city": "Remplir le champ",
+    "profil-picture": "Photo de profil{}",
+    "select": "Sélectionner",
+    "user-type": {
+      "title": "Type de compte"
+    },
+    "bat": {
+      "name": "Nom de bâtiment",
+      "hint": "Bâtiment de Paris"
+    },
+    "fullname": {
+      "hint": "Ex. John Doe"
+    },
+    "required-field": "* Les champs marqués sont obligatoires",
+    "email": {
+      "title-new": "Adresse email",
+      "title": "Adresse email",
+      "hint": "john.doe@gmail.com"
+    },
+    "id": {
+      "title": "Adresse email",
+      "hint": "john.doe@gmail.com"
+    },
+    "adress": {
+      "title": "Adresse",
+      "hint": "42 Avenue Dr Julien, 06000 Nice"
+    },
+    "phone": {
+      "title": "Numéro de téléphone",
+      "hint": "6 00 00 00 00",
+      "code-title": "Code reçu par SMS",
+      "not-received": "Pas reçu ? "
+    },
+    "firstname": {
+      "title": "Prénom",
+      "hint": "John"
+    },
+    "lastname": {
+      "title": "Nom",
+      "hint": "Doe"
+    },
+    "password": {
+      "title": "Mot de passe",
+      "repeat-title": "Répétez le mot de passe",
+      "actual-title": "Mot de passe actuel",
+      "new-title": "Nouveau mot de passe",
+      "new-repeat-title": "Confirmation mot de passe",
+      "hint": "********"
+    },
+    "societe": {
+      "title": "Société",
+      "hint": "Ma société"
+    },
+    "agency": {
+      "title": "Nom de l'agence",
+      "hint": "Nom de votre agence"
+    },
+    "userType": {
+      "title": "Fonction",
+      "client": "Client",
+      "technician": "Technicien",
+      "commercial": "Commercial"
+    },
+    "agencyName": {
+      "title": "Nom de l'agence",
+      "hint": "Agence de Paris"
+    },
+    "society": {
+      "title": "Société",
+      "hint": "SARL de Paris"
+    },
+    "form-validator": {
+      "please-enter-a-valid-taille": "Veuillez entrer une taille valide.",
+      "please-enter-a-valid-age": "Veuillez entrer un âge valide.",
+      "required-field": "Ce champ est requis.",
+      "bad-phone": "Format téléphone invalide",
+      "all-field-must-have-value": "Tous les champs doivent être remplis.",
+      "email": {
+        "incorrect": "Adresse email incorrect !\nVérifiez votre addresse email et validez à nouveau."
+      },
+      "password": {
+        "length": "Le mot de passe doit faire au moins 6 charactères.",
+        "maj": "Le mot de passe doit contenir au moins 1 majuscule",
+        "min": "Le mot de passe doit contenir au moins 1 minuscule",
+        "number": "Le mot de passe doit contenir au moins 1 chiffre",
+        "special-char": "Le mot de passe doit contenir au moins 1 charactère spécial",
+        "not-same": "Mot de passe différent"
+      },
+      "firebase": {
+        "user-mismatch": "Format email invalide",
+        "user-not-found": "Aucun utilisateur n’a été trouvé avec les informations renseignées.",
+        "invalid-credential": "Une erreur est survenue, veuillez recommencer.",
+        "email-already-in-use": "Cette adresse email est déjà utilisée.",
+        "phone-already-in-use": "Ce numéro de téléphone est déjà utilisé.",
+        "invalid-email": "Format email invalide",
+        "wrong-password": "Le mot de passe saisi est erroné.",
+        "weak-password": "Le mot de passe saisi est trop faible",
+        "invalid-phone-number": "Format téléphone invalide",
+        "too-many-attempts": "Trop de tentative de connexion, merci d'essayer plus tard",
+        "operation-not-allowed": "Opération non autorisée",
+        "user-disabled": "Votre compte à été désactivé par l’administrateur.",
+        "invalid-verification-code": "Le code de vérification saisi n’est pas valide.",
+        "invalid-verification-id": "Une erreur est survenue, veuillez recommencer.",
+        "session-expired": "Code de vérification expiré.",
+        "default": "Un problème de connexion est survenu. Vérifiez votre connexion Internet",
+        "error": "Une erreur est survenue, veuillez rééssayer."
+      },
+      "invalid-field-contact-developper": "Champs invalide, contactez le support ou le développeur"
+    }
+  },
+  "profil": "Profil",
+  "profil-picture": "Photo de profil",
+  "logout": "Se déconnecter",
+  "cancel": "Annuler",
+  "close": "Fermer",
+  "settings": {
+    "phone-changed-submit": "Valider et modifier",
+    "phone-changed": "Numéro changé",
+    "take-picture": "Prendre une photo",
+    "modify-picture": "Bibliothèque photos",
+    "phone": "Téléphone",
+    "validate-button": "Valider",
+    "edited_by": "Édité par ",
+    "delete-profil": "Supprimer mon profil",
+    "delete-account": "Supprimer mon compte",
+    "delete-account-confirm": "Souhaitez-vous vraiment supprimer votre compte ?",
+    "what-you-want-do": "Que souhaitez vous faire",
+    "what-you-want-do-logout": "Que souhaitez vous faire ?",
+    "social": "Réseaux",
+    "twitter": {
+      "title": "Notre Twitter"
+    },
+    "email": {
+      "title": "Adresse email"
+    },
+    "password-changed": "Mot de passe changé",
+    "password": {
+      "title": "Mot de passe",
+      "desc": "Modifier mon mot de passe.."
+    },
+    "confirm-email": {
+      "title": "Confirmation",
+      "body": "Un email de confirmation vous a été envoyé. Veuillez cliquer sur le lien de confirmation pour valider votre adresse email."
+    },
+    "my-account": "Mon compte",
+    "link": "Liens",
+    "modify": "Modifier",
+    "confidentiality": "Politique de confidentialité",
+    "cgvu": "Conditions générales de ventes et d'utilisation",
+    "legal": "Mentions légales",
+    "about": "À propos",
+    "other": "Autres",
+    "logout": "Se déconnecter",
+    "delete": "Supprimer mon compte",
+    "what-do": "Que souhaitez-vous faire",
+    "cancel": "Annuler",
+    "settings": {
+      "title": "Paramètres"
+    },
+    "error": {
+      "same-email": "Cette adresse email est déjà utilisée.",
+      "same-password": "Mots de passe identiques",
+      "same-phone": "Ce numéro de téléphone est déjà utilisé."
+    },
+    "personnal-data": {
+      "title": "Informations personnelles",
+      "desc": "Nom, prénom...",
+      "main": {
+        "title": "Informations personnelles",
+        "desc": "Nom, prénom, pseudo.."
+      },
+      "aditional": {
+        "title": "Type de profil",
+        "desc": "Taille, poids, silhouette.."
+      },
+      "match": {
+        "title": "Votre partenaire idéal",
+        "desc": "Taille, poids, silhouette.."
+      },
+      "research": {
+        "title": "Rayon de recherche",
+        "desc": "rayon de recherche pour tes matchs"
+      }
+    },
+    "account": {
+      "title": "Mon compte",
+      "personnal-data": {
+        "title": "Informations personnelles",
+        "desc": "Nom, prénom..."
+      },
+      "certificates": {
+        "title": "Mes attestations",
+        "desc": "Voir mes attestation"
+      }
+    },
+    "language": {
+      "title": "Langage"
+    },
+    "security": {
+      "title": "Sécurité",
+      "subTitle": "Mot de passe, tel, email..",
+      "desc": "Mot de passe, email..."
+    },
+    "payment": {
+      "title": "Moyens de paiement",
+      "desc": "Carte bancaire",
+      "subscription-page": {
+        "cancel": "souscription annulée"
+      }
+    },
+    "notifications": {
+      "email": {
+        "title": "Notifications email"
+      }
+    },
+    "help": {
+      "title": "Aide",
+      "desc": "Contactez-nous par email"
+    },
+    "share": {
+      "title": "Partager l'app",
+      "desc": "Soutenez-nous en partageant l'app"
+    },
+    "facebook": "Notre page Facebook",
+    "instagram": "Notre Instagram",
+    "edited": "Édité par "
+  },
+  "personnal-data": {
+    "title": "Informations personnelles",
+    "desc": "Nom, prénom, numéro de téléphone.."
+  },
+  "error": {
+    "picture": "Renseignez une image",
+    "location": "Renseignez une adresse valide",
+    "field": {
+      "cant-be-empty": "Ce champ doit être remplis."
+    }
+  },
+  "utils": {
+    "signal-picture": "Signaler la publication",
+    "photo": "Photo",
+    "video": "Vidéo",
+    "pick-media-type": "Choisissez le type de média",
+    "seemore": " voir plus",
+    "seeless": " voir moins",
+    "ended": "Terminé",
+    "need-connection": "Pour accéder à vos essayages, veuillez vous connecter.",
+    "close": "Fermer",
+    "accepted": "Réservation accepté",
+    "declined": "Réservation refusé",
+    "accept-reservation": "Accepter la réservation",
+    "decline": "Refuser",
+    "reset": "Réinitialiser",
+    "apply": "Appliquer",
+    "model": "modèle",
+    "models": "modèles",
+    "product": "magasin",
+    "products": "magasins",
+    "search-model": "Vous pouvez commencer une recherche de modèle en utilisant la barre de recherche ci-dessus.",
+    "search-product": "Vous pouvez commencer une recherche de robe en utilisant la barre de recherche ci-dessus.",
+    "no-result": "Aucun résultat",
+    "price": "prix ttc",
+    "signal-product": "Signaler la robe",
+    "signal-user": "Signaler l'utilisateur",
+    "empty": "Aucune publication",
+    "finish-subscription": "Terminer l'inscription",
+    "save": "Enregistrer",
+    "later": "Plus tard",
+    "number_x": "n°{}",
+    "camera": "Camera",
+    "galery": "Galerie",
+    "choose_image": "Choisir une image",
+    "cancel": "Annuler",
+    "right": "Droite",
+    "left": "Gauche",
+    "yes": "Oui",
+    "no": "Non",
+    "address-hint": "15 rue de Paris",
+    "loading": "Chargement...",
+    "return-to-home": "Retour à l'acceuil",
+    "resumed": "Résumé",
+    "remark": "Remarque",
+    "text-remark": "Remarque textuel",
+    "write-here": "Écrire ici..",
+    "select": "Sélectionner",
+    "choose": "Choisir",
+    "delete": "Supprimer",
+    "add-new": "Ajouter nouveau",
+    "resend": "Renvoyer",
+    "validate": "Valider",
+    "refresh": "Actualiser",
+    "connexion": "Connexion",
+    "modify": "Modifier",
+    "cgu": "CGU",
+    "cgu-complete": "Conditions générales de ventes et d'utilisations",
+    "policy-complete": "Politique de confidentialité",
+    "social-network": "Réseaux sociaux",
+    "legal-mention": "Mentions légales",
+    "faq": "FAQ",
+    "continue-to-next": "Continuer",
+    "next": "Suivant",
+    "prev": "Précédent",
+    "other": "Autres",
+    "help": "Aide",
+    "link": "Liens",
+    "about": "À propos",
+    "step": "Étape",
+    "general": "Général",
+    "what-do": "Que souhaitez-vous faire",
+    "see_example": "Voir l'exemple",
+    "see_example_picture": "Voir la photo d'exemple"
+  },
+  "network": {
+    "facebook": "Notre page Facebook",
+    "instagram": "Notre Instagram",
+    "twitter": "Notre twitter"
+  },
+  "contact-us": {
+    "by-email": "Contactez nous par email",
+    "by-phone": "Contactez nous par téléphone"
+  },
+  "########################": "########################",
+  "signalement": {
+    "page-title": "Signaler un problème",
+    "page-subtitle": "Vous rencontrez un problème ? Signalez-le nous maintenant.",
+    "description": {
+      "field-name": "Dîtes-nous en plus",
+      "hint": "Écrivez ici.."
+    },
+    "file": {
+      "field-name": "Ajouter des fichiers"
+    },
+    "submit-button": "Envoyer le signalement",
+    "footer": "* Les champs marqués sont obligatoires",
+    "success": "Envoyé",
+    "pick-camera": "Caméra",
+    "pick-galery": "Galerie",
+    "success-content": "Votre signalement a bien été envoyé ! Il sera traité dans les plus brefs délais.",
+    "back": "Terminer"
+  },
+  "onboarding": {
+    "empty": "Vide"
+  },
+  "app": {
+    "choose-and-subscribe": "Choisir et souscrire",
+    "no-engagement": "Sans engagement",
+    "match-desc": "Vous avez un match avec {}… échangez avec elle dès à présent pour la découvrir.(restez courtois et respectueux)",
+    "no-swipe-for-now": "Il n'y a aucun swipe pour l'instant, réessayes un peut plus tard.",
+    "complete-profil": {
+      "title": "Complétez votre profil",
+      "ideal-match": "Votre partenaire idéal",
+      "select-pictures": "Ajoutez vos photos",
+      "select-pictures-desc": "Vous pourrez modifier ou ajouter d’autres photos plus tard les réglages.",
+      "end-registration": "Terminer l'inscription",
+      "name": {
+        "title": "Nom",
+        "hint": "Ex. Doe"
+      },
+      "firstname": {
+        "title": "Prénom",
+        "hint": "Ex. John"
+      },
+      "birthdate": {
+        "title": "Date de naissance",
+        "hint": "Ex. 01/01/1990"
+      },
+      "gender": {
+        "title": "Sexe",
+        "hint": "Choisir",
+        "values": {
+          "men": "Homme",
+          "women": "Femme",
+          "other": "Autre"
+        }
+      },
+      "interessed-by": {
+        "title": "Je suis intéressé par",
+        "hint": "Choisir"
+      },
+      "description": {
+        "title": "Description",
+        "hint": "Décrivez-vous"
+      },
+      "society-vision": {
+        "my-title": "Votre vision de la société (changement des mœurs, mariage homosecuel, GPA, PMA, etc..)",
+        "his-title": "Sa vision de la société (changement des mœurs, mariage homosecuel, GPA, PMA, etc..)"
+      },
+      "religion": {
+        "my-title": "Votre religion",
+        "his-title": "Sa religion"
+      },
+      "sexual-preferencies": {
+        "my-title": "Vos préférences sexuelles",
+        "his-title": "Ses préférences sexuelles"
+      },
+      "money-in-couple": {
+        "title": "L'argent dans le couple"
+      },
+      "children-education": {
+        "my-title": "Votre vision de l'éducation des enfants",
+        "his-title": "Sa vision de l'éducation des enfants"
+      },
+      "have-children": {
+        "my-title": "Avez-vous des enfants ?",
+        "his-title": "A t-il des enfants ?"
+      },
+      "want-children": {
+        "my-title": "Voulez-vous des enfants ?",
+        "his-title": "S'il veut des enfants ?"
+      },
+      "smoke": {
+        "my-title": "Fumez-vous ?",
+        "his-title": "Fumera t-il ?"
+      },
+      "taille": {
+        "my-title": "Votre taille",
+        "his-title-min": "Taille minimum",
+        "his-title-max": "Taille maximum"
+      },
+      "age": {
+        "my-title": "Votre âge",
+        "his-title-min": "Âge minimum",
+        "his-title-max": "Âge maximum"
+      },
+      "silhouette": {
+        "my-title": "Votre silhouette",
+        "his-title": "Sa silhouette"
+      }
+    },
+    "not-enough-charms": "Vous n'avez plus de Wins",
+    "get-more-charms": "Obtenir + de Wins",
+    "my-wins": "Mes Wins",
+    "amazon-points": "Points Amazon",
+    "so-x": "Soit {} €",
+    "details": "Détails",
+    "get-reduc": "Obtenir mes chèques cadeaux ",
+    "get-reduc-amazon": "Obtenir mes chèques cadeaux Amazon",
+    "discorver-offer": "Découvrir les offres",
+    "discover-premium": "Découvrez l'abonnement Premium",
+    "give-more-value": "Donnez plus de valeur à vos",
+    "swipes": "Swipes",
+    "my-points-win": "Mes points gagnés",
+    "convert-points": "Convertir mes points",
+    "choose-reduc": "Choisissez votre chèque cadeau ",
+    "available-reduc": "Chèques disponibles",
+    "cost": "Coût",
+    "obtain-more": "Obtenez plus de",
+    "wins": "Wins",
+    "buy-wins": "Achetez des Wins",
+    "buy-with-price": "Acheter {}€",
+    "winning-points": "de points cadeaux",
+    "win": "gagnés",
+    "obtain-reduc": "Obtenir le chèque",
+    "age": "{} ans",
+    "distance": "à {} km",
+    "like": {
+      "my-like": "Likes reçus",
+      "no-like": "Vous n'avez pas encore de Likes"
+    },
+    "match": {
+      "my-match": "Tous mes matchs",
+      "no-match": "Vous n'avez pas encore de match"
+    },
+    "tchat": {
+      "tchat-now": "Discuter maintenant"
+    },
+    "signal-user": "Signaler ce profil",
+    "share-profil": "Partager ce profil",
+    "onboarding": {
+      "desc1": "Découvrez un nouveau système vous permettant de rencontrer l’amour de votre vie tout en étant amusant et rémunérateur.",
+      "desc2": "Envoyez des charmes à vos coups de coeur et montrez leur votre intérêt.",
+      "desc3": "Convertissez votre charmes afin d’obtenir des chèques cadeaux Amazon. À vous de jouer !",
+      "swipe": "Swippez, rencontrez ",
+      "and": "et ",
+      "win": "gagnez ",
+      "reduc": "des réductions",
+      "send": "Envoyer des ",
+      "charms": "charmes ",
+      "to": "à vos ",
+      "hearting": "coups de cœurs",
+      "use": "Utiliez vos ",
+      "on": "sur ",
+      "amazon": "Amazon",
+      "empty": "Vide",
+      "skip": "Passer"
+    },
+    "settings": {
+      "delete-account": "Supprimer mon compte",
+      "delete-account-confirm": "Souhaitez-vous vraiment supprimer votre compte ?",
+      "subscription": {
+        "title": "Abonnement",
+        "desc": "Gérer l'abonnement"
+      },
+      "error": {
+        "same-phone": "Le numéro de téléphone est le même que celui de votre compte"
+      },
+      "historic": {
+        "title": "Historique",
+        "subtitle": "Historique d'essayage"
+      },
+      "twitter": {
+        "title": "Twitter"
+      },
+      "settings-title": "Paramètres",
+      "push": {
+        "title": "Notifications Push",
+        "desc": "Activer les notifications push"
+      },
+      "other-title": "Autres",
+      "link-title": "Liens",
+      "help": {
+        "title": "Aide",
+        "desc": "Contactez-nous par email"
+      },
+      "share": {
+        "title": "Partager l'app",
+        "desc": "Soutenez-nous en partageant l’app"
+      },
+      "confidentiality": "Politique de confidentialité",
+      "cgvu": "Conditions générales de ventes et d’utilisation",
+      "legal-notice": "Mentions légales",
+      "social-title": "Réseaux sociaux"
+    }
+  }
+}

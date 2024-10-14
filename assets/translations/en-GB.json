@@ -1,0 +1,178 @@
+{
+    "authentication": {
+      "login": {
+        "login-title": "Log in"
+      },
+      "create-account": {
+        "title": "Create an account.",
+        "confirm-email-message": "You have received a verification email.\nPlease validate it to be able to access the website."
+      },
+      "confirm-email": {
+        "title": "Check your email inbox",
+        "must-validate-email": "You must validate your email to be able to access the website"
+      },
+      "reset-password": {
+        "title": "Check your email inbox",
+        "content": "You have received an email to reset your password"
+      },
+      "forgot-password": {
+        "title": "Reset password"
+      },
+      "logout": {
+        "content": "You have been disconnected.\nWe will redirect you..."
+      },
+      "no-account-yet": "Don't have an account yet ?",
+      "create-account-now": "Create it now",
+      "already-account": "Already have an account ?",
+      "login-now": "Log in",
+      "forgot-password-message": "Forgot password ?",
+      "forgot-password-link": "Reset",
+      "connect-by-phone": "By telephone",
+  
+      "error": {
+        "no-user-with": "No user found with the email {mail}."
+      }
+    },
+  
+    "field": {
+      "email": {
+        "title": "Email address",
+        "title-2": "Email",
+        "hint": "john.doe@gmail.com"
+      },
+      "adress": {
+        "title": "Address",
+        "hint": "42 Avenue Dr Julien, 06000 Nice"
+      },
+      "phone": {
+        "title": "Phone number",
+        "hint": "06 00 00 00 00"
+      },
+      "firstname": {
+        "title": "First name",
+        "hint": "Dylan"
+      },
+      "lastname": {
+        "title": "Last name",
+        "hint": "Ferrari"
+      },
+      "password": {
+        "title": "Password",
+        "repeat-title": "Repeat password",
+        "actual-title": "Actual password",
+        "new-title": "New password",
+        "new-repeat-title": "Repeat new password",
+        "hint": "********"
+      },
+      "form-validator": {
+        "required-field": "This field is required",
+        "bad-phone": "Invalid phone number format",
+        
+  "all-field-must-have-value": "Every field has to be filled in",
+  
+  
+        "email": {
+          "incorrect": "Incorrect email !\nCheck your email then validate again."
+        },
+        "password": {
+          "length": "Password must have a minimum of {length} characters.",
+          "maj": "Password must have atleast 1 uppercase letter.",
+          "min": "Password must have atleast 1 lowercase letter.",
+          "number": "Password must have atleast 1 number.",
+          "special-char": "Password must have atleast 1 special character.",
+          "not-same": "Different password"
+        },
+        "firebase": {
+          "user-mismatch": "Invalid email format",
+          "user-not-found": "No users were found with the information entered.",
+          "invalid-credential": "An erreur has occured, please start again.",
+          "email-already-in-use": "This email is already being used.",
+          "invalid-email": "Invalid email format",
+          "wrong-password": "The entered password is wrong",
+          "weak-password": "The entered password is weak",
+          "invalid-phone-number": "Invalid telephone number format",
+          "too-many-attempts": "oo many attempts to connect, please try again later",
+          "operation-not-allowed": "unauthorized operation",
+          "user-disabled": "Your account has been deactivated by the administrateur.",
+          "invalid-verification-code": "The entered verification code is not valid.",
+          "invalid-verification-id": "An erreur has occured, please start again.",
+          "session-expired": "Expired verification code",
+          "default": "A connection problem has occurred. Check your Internet connection",
+          "error": "An erreur has occured, please try again."
+        }
+      }
+    },
+  
+    "profil": "Profile",
+    "logout": "Disconnect",
+  
+    "settings": {
+      "settings": {
+        "title": "Settings"
+      },
+      "account": {
+        "title": "My account",
+        "personnal-data": {
+          "title": "Personal information",
+          "desc": "First name, Last name..."
+        },
+        "certificates": {
+          "title": "My credentials",
+          "desc": "See my credentials"
+        }
+      },
+      "language": {
+          "title": "Language"
+      },
+      "security": {
+        "title": "Security",
+        "desc": "Password, email..."
+      },
+      "payment": {
+        "title": "Payment method",
+        "desc": "Credit card"
+      },
+      "notifications": {
+        "email": {
+          "title": "Email notifications"
+        }
+      },
+      "kosmos": {
+        "edited": "Edited by "
+      }
+    },
+  
+    "utils": {
+      "validate": "Confirm",
+      "refresh": "Actualise",
+      "modify": "Modify",
+      "cgu": "CGU",
+      "cgu-complete": "General terms and conditions of sale and use",
+      "policy-complete":"Privacy Policy",
+      "social-network": "Social networks",
+      "faq": "FAQ",
+      "other": "Other",
+      "help": "Help"
+      , "link": "Links"
+    },
+  
+    "network": {
+        "facebook": "Our Facebook page",
+        "instagram": "Our Instagram",
+        "twitter": "Our twitter"
+    },
+  
+    "contact-us": {
+        "by-email": "Contact us by email",
+        "by-phone": "Contact us by phone"
+    },
+  
+    "########################": "########################",
+  
+    "navigation-item": {
+      "red": "Red",
+      "green": "Green",
+      "yellow": "Yellow",
+      "stripe": "Stripe"
+    }
+  }

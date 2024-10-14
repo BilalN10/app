@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "407296165597",
+    "project_id": "findyourdresses-8baf0",
+    "storage_bucket": "findyourdresses-8baf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407296165597:android:e5b91f80bb2db0d8dafd34",
+        "android_client_info": {
+          "package_name": "com.kosmos.findyourdresses.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407296165597-8sfiovhgjn6e5r2lv312u7jl7m52ehjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kosmos.findyourdresses.app",
+            "certificate_hash": "de92a54be5d44edcab1681bcfe8886fa395e1864"
+          }
+        },
+        {
+          "client_id": "407296165597-nia32lh3hrresv79a8967e6a77e78aeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArfwJCCv-KEj_ovlrxOJy6tkoqFsP11aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407296165597-nia32lh3hrresv79a8967e6a77e78aeb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "407296165597-2q8c90v5ojte19ddqffgj5i5ema98978.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kosmos.findyourdresses.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

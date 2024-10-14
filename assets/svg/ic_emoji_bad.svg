@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46.52" height="46.517" viewBox="0 0 46.52 46.517">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.933" y1="0.062" x2="0.054" y2="0.952" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5186d"/>
+      <stop offset="1" stop-color="#c61746"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2" transform="translate(-0.003)">
+    <g id="sad_cry" data-name="sad cry" transform="translate(0.003)">
+      <path id="icon" d="M23.26,0A23.259,23.259,0,0,0,10,42.367v-17.4a1.708,1.708,0,1,1,3.412,0V44.332a23.28,23.28,0,0,0,19.693,0V24.963a1.7,1.7,0,1,1,3.409,0V42.37A23.259,23.259,0,0,0,23.26,0ZM7.842,20.718a6.644,6.644,0,0,1,13.215,0,9.371,9.371,0,0,0-6.607-2.506,9.4,9.4,0,0,0-6.607,2.506ZM23.26,39.653c-2.715,0-4.918-2.819-4.918-6.3s2.2-6.3,4.918-6.3,4.918,2.819,4.918,6.3S25.978,39.653,23.26,39.653Zm8.811-21.441a9.4,9.4,0,0,0-6.607,2.506,6.644,6.644,0,0,1,13.215,0A9.4,9.4,0,0,0,32.071,18.212Z" transform="translate(-0.003)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="title" content="" />
+    <meta name="description" content="" />
+
+    <link rel="stylesheet" type="text/css" href="./assets/css/main.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap"
+        rel="stylesheet">
+    <title></title>
+    <script src="./config.js"></script>
+</head>
+
+<style>
+    body {
+       min-height: 100%;
+    }
+    </style>
+
+<body>
+    <div class="content">
+        <img  src="./assets/svg/logo.svg" style="width: 12vw;" class="pc logo">
+        <img src="./assets/svg/logo.svg" style="width: 70vw;" class="mobile logo">
+        <div class="bodyContent">
+            <div class="bodyContentLeftFrame">
+                <div id="skewContent">&nbsp;</div>
+
+                <h1 class="title" style="color:black">Trouvez et réservez<br>votre future robe.</h1>
+
+                <p class="pc paragraphe" style="color:black">Téléchargez dès à présent FindYourDresses pour réserver un essayage de robe haute couture, conçues par des créateurs.</p>
+                <p class="mobile paragraphe" style="color:black">Téléchargez dès à présent FindYourDresses pour réserver un essayage de robe haute couture, conçues par des créateurs. </p>
+                <p class="description" style="color:black">Téléchargez notre application.</p>
+                <div class="store">
+                    <a id="googleplay" href=""><img class="img_store" src="./assets/png/google_play.png"></a>
+                    <a id="applestore" href=""><img class="img_store" src="./assets/png/app_store.png"></a>
+                </div>
+            </div>
+            <div class="bodyContentRightFrame">
+                <!-- <img src="./assets/png/tel.png" class="pc" /> -->
+            </div>
+        </div>
+        
+    </div>
+    
+    <script>
+
+        function getAbsoluteHeight(el) {
+            // Get the DOM Node if you pass in a string
+            el = (typeof el === 'string') ? document.querySelector(el) : el;
+
+            var styles = window.getComputedStyle(el);
+            var margin = parseFloat(styles['marginTop']) +
+                parseFloat(styles['marginBottom']);
+
+            return Math.ceil(el.offsetHeight + margin);
+        }
+
+        // window.addEventListener('DOMContentLoaded', function (event) {
+        document.querySelector('title').innerHTML = config.appName
+        document.querySelector('#applestore').setAttribute('href', config.appstoreURL)
+        document.querySelector('#googleplay').setAttribute('href', config.googleplayURL)
+
+
+        // document.querySelector('#applestore img').style.height = document.querySelector('#googleplay img').offsetHeight + "px";
+
+        let size = 0;
+        document.querySelectorAll('.bodyContentLeftFrame > *:not(#skewContent)').forEach(function (el) {
+            size += getAbsoluteHeight(el);
+        })
+        document.querySelector('#skewContent').style.height = size + "px";
+        // });
+
+        window.addEventListener('resize', function (event) {
+            document.querySelector('#applestore img').style.height = document.querySelector('#googleplay img').offsetHeight + "px";
+            let size = 0;
+            document.querySelectorAll('.bodyContentLeftFrame > *:not(#skewContent)').forEach(function (el) {
+                size += getAbsoluteHeight(el);
+            })
+            document.querySelector('#skewContent').style.height = size + "px";
+        });
+    </script>
+</body>
+<div class="footer">
+    <ul>
+        <li><a href="./support.html">Support</a></li>
+        <li><a href="./confidentiality.html">Politique de confidentialité</a></li>
+        <li><a href="./cgvu.html">Conditions générales de vente</a></li>
+        <li><a href="./mention.html">Mentions légales</a></li>
+    </ul>
+</div>
+
+</html>

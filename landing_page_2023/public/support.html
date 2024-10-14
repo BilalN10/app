@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./assets/css/support.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap"
+        rel="stylesheet">
+    <title style="color: #031425;">Contactez-nous</title>
+    <script src="./config.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+</head>
+
+<body>
+    <div class="content">
+        <div class="bodyContent">
+            <div class="bodyContentLeftFrame">
+                <a href="./index.html">
+                    <img src="./assets/png/arrow_black.png" class="pc arrowBlack" />
+                    <img src="./assets/png/arrow_black.png" class="mobile arrowBlack" />
+                </a>
+                <h1 style="color: #031425;">Contactez-nous</h1>
+                <p><title></title></p>
+
+                <form id="supportform" action="" method="">
+                    <div class="success" id="success">Merci, votre message a bien été envoyé !</div>
+                    <input type="text" placeholder="Nom prénom ou profil" name="name" id="name" class="inp" />
+                    <input type="text" placeholder="Email" class="inp" name="email" id="email" />
+                    <input type="text" placeholder="Sujet" class="inp" name="subject" id="subject"/>
+                    <textarea class="textarea" placeholder="Message" name="message" id="message"></textarea>
+                    <br>
+                    <div id='recaptcha' class="g-recaptcha" data-sitekey=""></div>
+                    <br>
+
+                    <button style="background-image:  linear-gradient(to right, rgb(0, 0, 0),  rgb(0, 0, 0));"
+                        id="btn" onclick="sendEmail()">Envoyer</button>
+                </form>
+            </div>
+        
+            <div class="bodyContentRightFrame"></div>
+        </div>
+        <div class="footer">
+            
+            <ul>
+                <li><a href="./support.html">Support</a></li>
+                <li><a href="./confidentiality.html">Politique de confidentialité</a></li>
+                <li><a href="./cgvu.html">Conditions générales de vente</a></li>
+                <li><a href="./mention.html">Mentions légales</a></li>
+            </ul>
+        
+    </div>
+    </div>
+
+    <script>
+        document.querySelector('#recaptcha').setAttribute('data-sitekey', config.captcha_key);
+
+       async function sendEmail(){
+        if(grecaptcha.getResponse().length > 0 ){
+           
+            var name = document.getElementById("name").value;
+            var email = document.getElementById("email").value;
+            var subject = document.getElementById("subject").value;
+            var message = document.getElementById("message").value;
+            axios.post(config.googleCloudUrl, { name, email, subject, message})
+                .then(response => {
+                console.log(response);
+                })
+                .catch(error => {
+                console.log(error);
+                });
+            
+                alert('message envoyé !')
+            }  else{
+                alert('Renseignez le formulaire et validez la captcha');
+            }
+        }
+
+    </script>
+
+</body>
+
+</html>

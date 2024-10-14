@@ -1,0 +1,10 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+
+
+# we must deliver also .Keystore to client so we deleted all .keystore from this file
